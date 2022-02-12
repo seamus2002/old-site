@@ -59,4 +59,9 @@ body {
 	.android-demo {
 		display: none;
 	}
+
+	.portrait {
+		height: 200px;
+		width: 200px;
+	}
 }
