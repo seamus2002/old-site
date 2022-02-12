@@ -1,0 +1,62 @@
+body {
+	text-align: center;
+	color: #e6e6e6;
+}
+
+/* Pages */
+.page {
+	height: 100vh;
+}
+
+#home {
+	background-color: #222831;
+	margin-top: 0;
+	padding-top: 42.5vh;
+}
+
+#about {
+	background-color: #393e46;
+}
+
+#projects {
+	background-color: #1e2022;
+}
+
+#contact {
+	background-color: #393e46;
+}
+
+.btn {
+	margin: 7%;
+}
+
+/* Text */
+.heading-text {
+	padding: 7% 15%;
+}
+
+.about-text {
+	text-align: left;
+	padding: 0 10%;
+}
+
+.project-text {
+	padding: 0 10%;
+}
+
+/* Images */
+.portrait {
+	height: 400px;
+	width: 400px;
+}
+
+.android-demo {
+	height: 448px;
+	width: 207px;
+}
+
+@media (max-width: 991px) {
+	.android-demo {
+		display: none;
+	}
+}

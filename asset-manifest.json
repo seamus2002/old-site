@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f86300c6.js",
+    "static/media/todo-demo.gif": "/static/media/todo-demo.ca38436443573cebfef9.gif",
+    "static/media/portrait.jpg": "/static/media/portrait.df0bf8fdab16124cf90b.jpg",
+    "index.html": "/index.html",
+    "main.f86300c6.js.map": "/static/js/main.f86300c6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f86300c6.js"
+  ]
+}
